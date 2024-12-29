@@ -10,12 +10,12 @@ K-Means Clustering: To identify distinct clusters of cryptocurrencies. Principal
 
 Technologies Used
 * Python 3.10+
-* Libraries:
-** pandas
-** hvPlot
-** scikit-learn
-** StandardScaler and PCA for data preprocessing
-** KMeans for clustering
+
+* pandas
+* hvPlot
+* scikit-learn
+* StandardScaler and PCA for data preprocessing
+* KMeans for clustering
 
 
 
